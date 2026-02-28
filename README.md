@@ -1,3 +1,4 @@
+### LIVE LINK: https://reliable-rebirth-production-38e7.up.railway.app/
 # QuickHire – Simple Job Board Application
 
 A full-stack job board application built with **Next.js 14** (frontend) and **Laravel 11** (backend) as part of the Qtec Solution Limited Associate Software Engineer technical assessment.
